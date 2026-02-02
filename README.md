@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Willani Love
+## 👋 Hi, I’m Lani!
 
 I’m a Software Engineer with a foundation in full-stack development (**React, Python, SQL**) and over five years of experience supporting and improving SaaS platforms in fast-paced, customer-focused environments.
 
