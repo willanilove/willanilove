@@ -8,7 +8,12 @@ I’m a Software Engineer with a foundation in full-stack development (**React, 
 
 My background combines formal engineering training with hands-on experience working in live production systems. Before moving into software engineering, I worked as a Senior Technical Support Specialist and Team Lead, where I handled complex Tier 2–3 issues, reproduced bugs, investigated root causes, and worked closely with Engineering, QA, and Product teams to resolve platform issues and improve overall system performance.
 
+I approach development with a production mindset shaped by years of debugging live SaaS systems.
+Experienced in translating user-reported issues into actionable engineering insights.
+
 That experience directly influences how I build software today. I think about how systems behave in real-world use, how users experience the product, and how teams maintain and support what gets shipped. I’m particularly strong at troubleshooting, understanding system behavior across the stack, and turning messy problems into clear, actionable solutions.
+
+Comfortable reading logs, inspecting network requests, and tracing issues across the stack. Strong believer that great software starts with understanding user pain points.
 
 ---
 
