@@ -1,45 +1,54 @@
-## 👋 Hi, I’m Lani!
+# 👋 Hi, I’m Lani!
 
-I’m a Software Engineer with a foundation in full-stack development (**React, Python, SQL**) and over five years of experience supporting and improving SaaS platforms in fast-paced, customer-focused environments.
+I’m a Technical Support Engineer with 5+ years of experience supporting SaaS platforms in fast-paced, customer-focused environments.
+
+My background combines hands-on technical support experience with software engineering training, allowing me to troubleshoot complex application issues, understand system behavior, and collaborate effectively with Engineering and Product teams.
 
 ---
 
 ## 🧩 About Me
 
-My background combines formal engineering training with hands-on experience working in live production systems. Before moving into software engineering, I worked as a Senior Technical Support Specialist and Team Lead, where I handled complex Tier 2–3 issues, reproduced bugs, investigated root causes, and worked closely with Engineering, QA, and Product teams to resolve platform issues and improve overall system performance.
+Before expanding my software development skills, I spent several years supporting live SaaS environments as a Senior Technical Support Specialist and Team Lead. I worked closely with customers and internal teams to investigate technical issues, reproduce bugs, analyze application behavior, and drive problems toward resolution.
 
-I approach development with a production mindset shaped by years of debugging live SaaS systems.
-Experienced in translating user-reported issues into actionable engineering insights.
+Through my software engineering training, I gained a deeper understanding of how web applications are built — including frontend development, APIs, databases, and application architecture. This allows me to approach support from both the user perspective and the technical side of the product.
 
-That experience directly influences how I build software today. I think about how systems behave in real-world use, how users experience the product, and how teams maintain and support what gets shipped. I’m particularly strong at troubleshooting, understanding system behavior across the stack, and turning messy problems into clear, actionable solutions.
-
-Comfortable reading logs, inspecting network requests, and tracing issues across the stack. Strong believer that great software starts with understanding user pain points.
+I enjoy troubleshooting difficult problems, identifying root causes, improving documentation, and helping teams build more reliable products.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Frontend:** React, JavaScript, HTML, CSS  
-**Backend & Data:** Python, SQL, REST APIs  
-**Tools & Platforms:** Git, Postman, Browser DevTools, Jira, Salesforce, Zendesk  
-**Core Strengths:** Debugging, Root Cause Analysis, SaaS Systems, System Troubleshooting, Technical Documentation
+**Frontend:** JavaScript, React, HTML, CSS, TypeScript
+**Backend & Data:** Python, SQL, REST APIs
+**Tools & Platforms:** Git, Postman, Browser DevTools, Jira, Salesforce, Zendesk
+
+**Technical Strengths:**
+
+* SaaS Application Support
+* Debugging & Root Cause Analysis
+* Browser Developer Tools
+* API Troubleshooting
+* Log Analysis
+* Bug Reproduction
+* Technical Documentation
+* Cross-functional Collaboration
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Projects
 
-- Building full-stack applications with clean, maintainable architecture  
-- Continuing to grow my backend and API development skills  
-- Applying a production-aware mindset to how software is designed and delivered  
+I enjoy building applications as a way to strengthen my understanding of software systems and apply what I learn to real-world troubleshooting.
 
----
+Projects include:
 
-## 💼 Professional Interests
-
-Open to roles such as **Junior Software Engineer**, **Full‑Stack Developer**, or **Systems/Support Engineering** positions that sit at the intersection of software, systems, and problem‑solving.
+* Full-stack web applications using React, JavaScript, Python, and SQL
+* Collaborative development projects using Git workflows
+* Applications focused on user experience, data handling, and system functionality
 
 ---
 
-## 🔎 Background Perspective
+## 🎯 Professional Focus
 
-Starting my career in technical support and moving into engineering allows me to bridge the gap between users and developers. I’m comfortable communicating across teams, understanding operational challenges, and building software that works well not just in theory, but in real-world environments.
+I’m interested in roles where technology, troubleshooting, and customer impact intersect — including Technical Support Engineering, Solutions Engineering, Application Support, and other technical roles supporting SaaS products.
+
+My goal is to continue growing as a technical problem solver while helping teams deliver reliable, scalable software experiences.
